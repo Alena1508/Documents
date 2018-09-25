@@ -1,6 +1,6 @@
 # Documents plugin
 
-This plugin is used to support User Chat around a PulseTile ReactJS based application.
+This plugin is used to support Documents around a PulseTile ReactJS based application.
 
 # Installation
 
